@@ -1,0 +1,14 @@
+.margint{
+    margin-top: 20pc;
+}
+.quiz{
+    border:1px solid black;
+    width:50%;
+    padding:10px;
+}
+
+.mainDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
